@@ -1,0 +1,22 @@
+{
+  "name": "nohe-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Little001/Nohe-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Little001/Nohe-tests/issues"
+  },
+  "homepage": "https://github.com/Little001/Nohe-tests#readme",
+  "devDependencies": {
+    "cypress": "^3.1.3"
+  }
+}
